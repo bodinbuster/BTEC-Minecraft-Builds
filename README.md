@@ -16,6 +16,7 @@ All Builds of BTEC Minecraft, From First Ever to Latest.
 - Added Main Menu
 - Added Settings Menu
 - Added Chunk Animations
+- Added customizable seed for world generation
 - Added customizable settings
   - View Distance 
   - Mouse Sensitivity
