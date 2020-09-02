@@ -7,7 +7,17 @@ All Builds of BTEC Minecraft, From First Ever to Latest.
 - No Changes, as first version
 
 0.0.0.1b
-- New biomes generate
+- Added new biomes generate
   - Plains
   - Forest
   - Desert
+  
+0.0.0.1c
+- Added Main Menu
+- Added Settings Menu
+- Added Chunk Animations
+- Added customizable settings
+  - View Distance 
+  - Mouse Sensitivity
+  - Toggle Chunk Animations
+  - Toggle Threading
